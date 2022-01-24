@@ -1,6 +1,6 @@
 {
   "name": "@sunj-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sunj-cli-dev core",
   "author": "孙杰 <297280911@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"run core\" "
   },
   "dependencies": {
-    "@sunj-cli-dev/utils": "^1.0.0"
+    "@sunj-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "de24a1e8c7534bd00ff617abc41de5f35a57f420"
 }
